@@ -1,19 +1,9 @@
-import 'package:catcher/catcher_plugin.dart';
-import 'package:catcher/core/catcher.dart';
-import 'package:catcher/handlers/console_handler.dart';
-import 'package:catcher/handlers/email_manual_handler.dart';
-import 'package:catcher/mode/dialog_report_mode.dart';
-import 'package:catcher/model/catcher_options.dart';
-import 'package:catcher/model/http_request_type.dart';
+
 import 'package:flutter/material.dart';
 import 'package:google_lens_clone/managers/lifecycle_manager.dart';
-import 'package:google_lens_clone/models/carousal_item_model.dart';
-import 'package:google_lens_clone/settings.dart';
 import 'package:google_lens_clone/views/pages/home_camera_view.dart';
-import 'package:google_lens_clone/views/pages/random_particles_view.dart';
 import 'package:google_lens_clone/views/shared/app_colors.dart';
-import 'package:google_lens_clone/views/widgets/carousal_slider_widget.dart';
-import 'package:google_lens_clone/views/widgets/lens_appbar.dart';
+
 import 'locator.dart';
 
 

@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:google_lens_clone/models/carousal_item_model.dart';
-import 'package:google_lens_clone/utils/mapper_utils.dart';
 import 'package:google_lens_clone/viewmodels/carousal_slider_viewmodel.dart';
 import 'package:google_lens_clone/views/core/base_view.dart';
 import 'package:google_lens_clone/views/shared/app_colors.dart';
