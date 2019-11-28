@@ -13,33 +13,19 @@ class Settings{
  static const IDENTITYbaseUrl_production="";
 
 //Development
- static const APIbaseUrl_development="http://192.168.0.114:45457/";
- static const IDENTITYbaseUrl_development="http://192.168.0.114:45455/";
+ static const APIbaseUrl_development="";
+ static const IDENTITYbaseUrl_development="";
 
 
  //StagingUrl
- static const APIbaseUrl_staging="https://vmswebapi-staging-as.azurewebsites.net/";
- static const IDENTITYbaseUrl_staging="https://vmsidentityapi-staging-as.azurewebsites.net";
+ static const APIbaseUrl_staging="";
+ static const IDENTITYbaseUrl_staging="";
 
  //AppUnique Identifier
-static const AppUniqueIdentifier = "OptiResident";
-
-
-//Access Token and Refresh Token key
-static const  access_token = "access_token";
-static const  refresh_token = "refresh_token";
-static const  role ="Resident";
-
-//Datetime format follow by whole app
-static const datetime_format = "dd-MM-yyyy";
-static const datetime_format_visitrequest = "d MMM yyy";
-static int list_pagesize = 10;
-
+static const AppUniqueIdentifier = "";
 
 
 static const default_username = "Raash Vision";
-
-
 
 
 static String getApiUrl(Enviroment enviroment, ApiUrl whichapi) {
