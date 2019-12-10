@@ -1,4 +1,0 @@
-enum ApiUrl {
-  VMSAPI,
-  IDENTITYAPI,
-}

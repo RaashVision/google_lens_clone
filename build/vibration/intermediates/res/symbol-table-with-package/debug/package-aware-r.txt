@@ -1,1 +1,0 @@
-com.benjaminabel.vibration
