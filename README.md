@@ -8,6 +8,7 @@ This is the Google Lens clone app built in Flutter. Only about 60% clone. Just U
 
 ## GIF
 
+![gif](https://user-images.githubusercontent.com/14199227/71096968-35638580-21ea-11ea-9eea-5c2d0f76f033.gif)
 
 
 Library used
